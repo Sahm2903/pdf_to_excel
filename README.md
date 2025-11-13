@@ -34,7 +34,7 @@ python3 -m pip install pdfplumber pandas
 6. Concatenates all tables into one final DataFrame.
 7. Exports the result to an Excel file.
 
-```
+
 
 ## Example Usage
 
